@@ -2,7 +2,7 @@
   
 
 - 👋 Hi, I’m @acpcarvalhoh
-- 👀 I’m interested in learn programing
+- 👀 I’m interested in learn programming
 - 🌱 I’m currently learning CSS, HTML, JAVASCRIPT, NODEJS, SQL...
 - 💞️ I’m looking to collaborate on new projects and help another beginners...
 - 📫 How to reach me 'carvalhohuzumak@gmail.com'
